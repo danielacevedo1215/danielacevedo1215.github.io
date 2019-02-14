@@ -1,0 +1,45 @@
+p { color: black;
+    font-family: 'Inconsolata', monospace;} 
+
+.p1 {color: white;}
+
+h1{ color: black; text-align: center; }
+
+.myname {color: white;
+    font-family: 'Indie Flower', cursive;
+    }
+
+html{background: lightblue;} 
+
+div.background{
+    background: lightblue;
+}
+
+ol{list-style-type: lower-alpha;}
+
+ul {list-style-type: square;}
+
+nav {  
+    /* border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid; */
+    width: 18%;
+    border: 5px solid blue;
+    border-color: black;
+    box-sizing: border-box;
+    background: white
+   
+}
+a:hover {
+    color: red;
+  }
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 400px;
+    padding: 5px;
+    width: 400px;
+  }
+  
+div {overflow: hidden;}
